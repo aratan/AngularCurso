@@ -5,6 +5,21 @@ import { Component } from '@angular/core';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
+
+//instancia
 export class AppComponent {
-  title = 'bases';
+ /* title:string = 'Contador APP';
+  numero:number = 10;
+
+  base:number = 5;
+
+  sumar(){
+    this.numero +=1;
+  }
+
+  acumular(valor:number){
+    this.numero += valor;
+  }
+  */
+
 }
